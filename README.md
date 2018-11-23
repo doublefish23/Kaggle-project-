@@ -1,4 +1,6 @@
-# Kaggle-project- 
+# Kaggle-project
+Mukhit Ismailov
+
 Project for in-class kaggle competition
 
 1) For this assignment I am using python 3.6. This assignment is done in Jupyter Notebook
